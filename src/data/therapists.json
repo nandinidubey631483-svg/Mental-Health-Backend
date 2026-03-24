@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "Dr. Neha Sharma",
+    "specialization": "Anxiety & Stress Management",
+    "experience": 8,
+    "availabilitySlots": [
+      {
+        "start": "2026-03-25T10:00:00.000Z",
+        "end": "2026-03-25T10:30:00.000Z"
+      },
+      {
+        "start": "2026-03-25T11:00:00.000Z",
+        "end": "2026-03-25T11:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Dr. Arjun Patel",
+    "specialization": "Depression & CBT",
+    "experience": 11,
+    "availabilitySlots": [
+      {
+        "start": "2026-03-25T13:00:00.000Z",
+        "end": "2026-03-25T13:45:00.000Z"
+      },
+      {
+        "start": "2026-03-25T14:00:00.000Z",
+        "end": "2026-03-25T14:45:00.000Z"
+      }
+    ]
+  }
+]

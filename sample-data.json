@@ -1,0 +1,41 @@
+﻿{
+  "users": [
+    {
+      "name": "Ava Brown",
+      "email": "ava@example.com",
+      "password": "Password123",
+      "age": 27,
+      "gender": "female",
+      "role": "user",
+      "bio": "Working on better daily routines.",
+      "mentalHealthGoals": ["sleep consistency", "lower stress"]
+    },
+    {
+      "name": "Rahul Mehta",
+      "email": "rahul@example.com",
+      "password": "Password123",
+      "age": 34,
+      "gender": "male",
+      "role": "therapist",
+      "bio": "Licensed therapist account sample.",
+      "mentalHealthGoals": []
+    }
+  ],
+  "moods": [
+    {
+      "mood": "happy",
+      "note": "Felt productive after journaling.",
+      "date": "2026-03-24T08:30:00.000Z"
+    },
+    {
+      "mood": "anxious",
+      "note": "Stress before a deadline.",
+      "date": "2026-03-23T17:30:00.000Z"
+    }
+  ],
+  "appointmentBooking": {
+    "therapistId": "replace-with-valid-therapist-id",
+    "slotStart": "2026-03-25T10:00:00.000Z",
+    "notes": "Looking for support with stress management."
+  }
+}

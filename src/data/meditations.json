@@ -1,0 +1,23 @@
+﻿[
+  {
+    "title": "Calm Breathing Reset",
+    "duration": 10,
+    "category": "stress_relief",
+    "audioUrl": "https://example.com/audio/calm-breathing-reset.mp3",
+    "description": "A short breathing exercise for stress reduction."
+  },
+  {
+    "title": "Sleep Preparation Journey",
+    "duration": 15,
+    "category": "sleep",
+    "audioUrl": "https://example.com/audio/sleep-preparation-journey.mp3",
+    "description": "A guided meditation to unwind before bed."
+  },
+  {
+    "title": "Focus and Grounding",
+    "duration": 8,
+    "category": "focus",
+    "audioUrl": "https://example.com/audio/focus-and-grounding.mp3",
+    "description": "A grounding session to improve concentration."
+  }
+]
